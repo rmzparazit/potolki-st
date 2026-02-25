@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-02-25T20:00:00">
+  <shop>
+    <name>СтройТраст</name>
+    <company>ООО "ТД "СтройТраст"</company>
+    <url>https://potolki-st.ru</url>
+    <platform>Custom</platform>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Потолочные плиты</category>
+      <category id="2">Светильники</category>
+      <category id="3">Потолочные системы и направления</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Потолочная плита Armstrong Bajkal Board</name>
+        <vendorCode>1</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-bajkal-board]]></url>
+        <price>499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/71e/1btq696hm8zgcwx2cnjmu45n78c0bd2y.jpg</picture>
+        <description>Потолочная плита Armstrong Bajkal Board. Хит продаж.</description>
+        <sales_notes>Доставка от официального дилера. Возможна комплектация объекта.</sales_notes>
+        <param name="Размеры">600x600x12мм</param>
+        <param name="Бренд">Armstrong</param>
+      </offer>
+      
+      <offer id="2" available="true">
+        <name>Потолочная плита WallEx на основе ГКЛ</name>
+        <vendorCode>2</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-wallex-na-osnove-gkl]]></url>
+        <price>349</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/234/ozh4dvddushldzjet1b361pcvjmtc3pc.jpg</picture>
+        <description>Потолочная плита WallEx на основе ГКЛ. Хит продаж.</description>
+        <sales_notes>Собственное производство. Доставка на объект.</sales_notes>
+        <param name="Размеры">600x600x6,5мм</param>
+        <param name="Бренд">WallEx</param>
+      </offer>
+
+      <offer id="3" available="true">
+        <name>Потолочная плита Armstrong Retail</name>
+        <vendorCode>3</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-retail]]></url>
+        <price>549</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/0bc/3mspax33j4z5vx2p4dzljzxsn10ke36n.png</picture>
+        <description>Потолочная плита Armstrong Retail. Хит продаж.</description>
+        <sales_notes>Доставка от официального дилера.</sales_notes>
+        <param name="Размеры">600x600x12мм</param>
+        <param name="Бренд">Armstrong</param>
+      </offer>
+
+      <offer id="4" available="true">
+        <name>Потолочная плита Armstrong Retail NG</name>
+        <vendorCode>4</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-retail-ng]]></url>
+        <price>999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/eac/duszab4982e4aqhr0pvs8hh0j2b7j8lj.png</picture>
+        <description>Потолочная плита Armstrong Retail NG. Хит продаж.</description>
+        <sales_notes>Доставка от официального дилера.</sales_notes>
+        <param name="Размеры">600x600x12мм</param>
+        <param name="Бренд">Armstrong</param>
+      </offer>
+
+      <offer id="5" available="true">
+        <name>Потолочная плита Armstrong Oasis</name>
+        <vendorCode>5</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-oasis]]></url>
+        <price>555</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/163/cfnxkbtc8tweccbhikdgjkam13vrbhuw.jpg</picture>
+        <description>Потолочная плита Armstrong Oasis. Хит продаж.</description>
+        <sales_notes>Доставка от официального дилера.</sales_notes>
+        <param name="Размеры">600x600x12мм</param>
+        <param name="Бренд">Armstrong</param>
+      </offer>
+
+      <offer id="6" available="true">
+        <name>Светодиодный светильник ЭРА 40 Вт</name>
+        <vendorCode>6</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#svetodiodnyj-svetil-nik-era-40-vt]]></url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/48d/90vckpc0nckvdbl05pykplpsb6m4b4x2.png</picture>
+        <description>Светодиодный светильник ЭРА 40 Вт. Хит продаж.</description>
+        <sales_notes>Цена по запросу. Оставьте заявку.</sales_notes>
+        <param name="Размеры">595х595мм</param>
+        <param name="Бренд">ЭРА</param>
+      </offer>
+
+      <offer id="7" available="true">
+        <name>Потолки из минерального волокна и металлические кассеты</name>
+        <vendorCode>7</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolki-iz-mineral-nogo-volokna-i-metallicheskie-kassety]]></url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/3cc/n8bj21wol3k6t2b96id9cqsvzmy9cy02.jpg</picture>
+        <description>Классические решения для офисов, административных и торговых пространств. Предлагаем стандартные, влагостойкие и огнестойкие варианты от Armstrong, Grand Line и других производителей.</description>
+        <sales_notes>Цена рассчитывается по смете. Доступен бесплатный аудит проекта.</sales_notes>
+      </offer>
+
+      <offer id="8" available="true">
+        <name>Потолки Грильято</name>
+        <vendorCode>8</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolki-gril-yato]]></url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/dd8/1hxs405s9qzsnha1fc6kuqh9b2ntiyri.png</picture>
+        <description>Подвесной потолок с ячейками из U-образных профилей в алюминии или оцинкованной стали. Широкий размерный ряд ячеек позволяет регулировать «прозрачность» потолочного пространства и создавать современные дизайнерские решения.</description>
+        <sales_notes>Цена рассчитывается по смете.</sales_notes>
+      </offer>
+
+      <offer id="9" available="true">
+        <name>Кубообразная рейка (Кубота)</name>
+        <vendorCode>9</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#kuboobraznaya-rejka-kubota]]></url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/e8f/0b69yp77q2hc6drzs43irsqn4lwgeplw.jpg</picture>
+        <description>Кубообразный реечный потолок, также известный как скандинавская рейка, — универсальное решение для коммерческих пространств: его выбирают для торговых центров, отелей, офисов и ресторанов. Он гармонично дополняет современный интерьер и подчёркивает индивидуальность потолка.</description>
+        <sales_notes>Цена рассчитывается по смете.</sales_notes>
+      </offer>
+
+      <offer id="10" available="true">
+        <name>Потолки на основе СМЛ и ГКЛ</name>
+        <vendorCode>10</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#potolki-na-osnove-sml-i-gkl]]></url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/3cc/n8bj21wol3k6t2b96id9cqsvzmy9cy02.jpg</picture>
+        <description>Потолочные панели WallEx собственного производства негорючие на основе СМЛ, с сертификатом КМ 0, а также трудногорючие на основе ГКЛ, с сертификатом КМ 1. Покраска в любой цвет по RAL NCS Tikkurila.</description>
+        <sales_notes>Цена рассчитывается по смете.</sales_notes>
+      </offer>
+
+      <offer id="11" available="true">
+        <name>Комплектующие и светильники</name>
+        <vendorCode>11</vendorCode>
+        <url><![CDATA[https://potolki-st.ru/#komplektuyushchie-i-svetil-niki]]></url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://potolki-st.ru/upload/iblock/e51/ml611pnbx70029lyn2lim646whg7y8dw.png</picture>
+        <description>Все необходимое для монтажа: подвесы, профили, а также встраиваемые и трековые светильники для завершённого вида объекта.</description>
+        <sales_notes>Цена рассчитывается по смете.</sales_notes>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
