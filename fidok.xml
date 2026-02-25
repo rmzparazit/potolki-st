@@ -158,5 +158,83 @@
         <sales_notes>Цена рассчитывается по смете.</sales_notes>
       </offer>
     </offers>
+    <collections>
+      <collection id="potolochnaya-plita-armstrong-bajkal-board">
+        <name>Потолочная плита Armstrong Bajkal Board</name>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-bajkal-board]]></url>
+        <description>Потолочная плита Armstrong Bajkal Board. Хит продаж.</description>
+        <picture>https://potolki-st.ru/upload/iblock/71e/1btq696hm8zgcwx2cnjmu45n78c0bd2y.jpg</picture>
+      </collection>
+
+      <collection id="potolochnaya-plita-wallex-na-osnove-gkl">
+        <name>Потолочная плита WallEx на основе ГКЛ</name>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-wallex-na-osnove-gkl]]></url>
+        <description>Потолочная плита WallEx на основе ГКЛ. Хит продаж.</description>
+        <picture>https://potolki-st.ru/upload/iblock/234/ozh4dvddushldzjet1b361pcvjmtc3pc.jpg</picture>
+      </collection>
+
+      <collection id="potolochnaya-plita-armstrong-retail">
+        <name>Потолочная плита Armstrong Retail</name>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-retail]]></url>
+        <description>Потолочная плита Armstrong Retail. Хит продаж.</description>
+        <picture>https://potolki-st.ru/upload/iblock/0bc/3mspax33j4z5vx2p4dzljzxsn10ke36n.png</picture>
+      </collection>
+
+      <collection id="potolochnaya-plita-armstrong-retail-ng">
+        <name>Потолочная плита Armstrong Retail NG</name>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-retail-ng]]></url>
+        <description>Потолочная плита Armstrong Retail NG. Хит продаж.</description>
+        <picture>https://potolki-st.ru/upload/iblock/eac/duszab4982e4aqhr0pvs8hh0j2b7j8lj.png</picture>
+      </collection>
+
+      <collection id="potolochnaya-plita-armstrong-oasis">
+        <name>Потолочная плита Armstrong Oasis</name>
+        <url><![CDATA[https://potolki-st.ru/#potolochnaya-plita-armstrong-oasis]]></url>
+        <description>Потолочная плита Armstrong Oasis. Хит продаж.</description>
+        <picture>https://potolki-st.ru/upload/iblock/163/cfnxkbtc8tweccbhikdgjkam13vrbhuw.jpg</picture>
+      </collection>
+
+      <collection id="svetodiodnyj-svetil-nik-era-40-vt">
+        <name>Светодиодный светильник ЭРА 40 Вт</name>
+        <url><![CDATA[https://potolki-st.ru/#svetodiodnyj-svetil-nik-era-40-vt]]></url>
+        <description>Светодиодный светильник ЭРА 40 Вт. Хит продаж.</description>
+        <picture>https://potolki-st.ru/upload/iblock/48d/90vckpc0nckvdbl05pykplpsb6m4b4x2.png</picture>
+      </collection>
+
+      <collection id="potolki-iz-mineral-nogo-volokna-i-metallicheskie-kassety">
+        <name>Потолки из минерального волокна и металлические кассеты</name>
+        <url><![CDATA[https://potolki-st.ru/#potolki-iz-mineral-nogo-volokna-i-metallicheskie-kassety]]></url>
+        <description>Классические решения для офисов, административных и торговых пространств. Предлагаем стандартные, влагостойкие и огнестойкие варианты от Armstrong, Grand Line и других производителей.</description>
+        <picture>https://potolki-st.ru/upload/iblock/3cc/n8bj21wol3k6t2b96id9cqsvzmy9cy02.jpg</picture>
+      </collection>
+
+      <collection id="potolki-gril-yato">
+        <name>Потолки Грильято</name>
+        <url><![CDATA[https://potolki-st.ru/#potolki-gril-yato]]></url>
+        <description>Подвесной потолок с ячейками из U-образных профилей в алюминии или оцинкованной стали. Широкий размерный ряд ячеек позволяет регулировать «прозрачность» потолочного пространства и создавать современные дизайнерские решения.</description>
+        <picture>https://potolki-st.ru/upload/iblock/dd8/1hxs405s9qzsnha1fc6kuqh9b2ntiyri.png</picture>
+      </collection>
+
+      <collection id="kuboobraznaya-rejka-kubota">
+        <name>Кубообразная рейка (Кубота)</name>
+        <url><![CDATA[https://potolki-st.ru/#kuboobraznaya-rejka-kubota]]></url>
+        <description>Кубообразный реечный потолок, также известный как скандинавская рейка, — универсальное решение для коммерческих пространств: его выбирают для торговых центров, отелей, офисов и ресторанов. Он гармонично дополняет современный интерьер и подчёркивает индивидуальность потолка.</description>
+        <picture>https://potolki-st.ru/upload/iblock/e8f/0b69yp77q2hc6drzs43irsqn4lwgeplw.jpg</picture>
+      </collection>
+
+      <collection id="potolki-na-osnove-sml-i-gkl">
+        <name>Потолки на основе СМЛ и ГКЛ</name>
+        <url><![CDATA[https://potolki-st.ru/#potolki-na-osnove-sml-i-gkl]]></url>
+        <description>Потолочные панели WallEx собственного производства негорючие на основе СМЛ, с сертификатом КМ 0, а также трудногорючие на основе ГКЛ, с сертификатом КМ 1. Покраска в любой цвет по RAL NCS Tikkurila.</description>
+        <picture>https://potolki-st.ru/upload/iblock/3cc/n8bj21wol3k6t2b96id9cqsvzmy9cy02.jpg</picture>
+      </collection>
+
+      <collection id="komplektuyushchie-i-svetil-niki">
+        <name>Комплектующие и светильники</name>
+        <url><![CDATA[https://potolki-st.ru/#komplektuyushchie-i-svetil-niki]]></url>
+        <description>Все необходимое для монтажа: подвесы, профили, а также встраиваемые и трековые светильники для завершённого вида объекта.</description>
+        <picture>https://potolki-st.ru/upload/iblock/e51/ml611pnbx70029lyn2lim646whg7y8dw.png</picture>
+      </collection>
+    </collections>
   </shop>
 </yml_catalog>
