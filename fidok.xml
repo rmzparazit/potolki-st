@@ -108,7 +108,7 @@
         <name>Потолки из минерального волокна и металлические кассеты</name>
         <vendorCode>7</vendorCode>
         <url><![CDATA[https://potolki-st.ru/?id=7#potolki-iz-mineral-nogo-volokna-i-metallicheskie-kassety]]></url>
-        <price>1</price>
+        <price>0</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://potolki-st.ru/upload/iblock/3cc/n8bj21wol3k6t2b96id9cqsvzmy9cy02.jpg</picture>
@@ -121,7 +121,7 @@
         <name>Потолки Грильято</name>
         <vendorCode>8</vendorCode>
         <url><![CDATA[https://potolki-st.ru/?id=8#potolki-gril-yato]]></url>
-        <price>1</price>
+        <price>0</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://potolki-st.ru/upload/iblock/dd8/1hxs405s9qzsnha1fc6kuqh9b2ntiyri.png</picture>
@@ -134,7 +134,7 @@
         <name>Кубообразная рейка (Кубота)</name>
         <vendorCode>9</vendorCode>
         <url><![CDATA[https://potolki-st.ru/?id=9#kuboobraznaya-rejka-kubota]]></url>
-        <price>1</price>
+        <price>0</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://potolki-st.ru/upload/iblock/e8f/0b69yp77q2hc6drzs43irsqn4lwgeplw.jpg</picture>
@@ -147,7 +147,7 @@
         <name>Потолки на основе СМЛ и ГКЛ</name>
         <vendorCode>10</vendorCode>
         <url><![CDATA[https://potolki-st.ru/?id=10#potolki-na-osnove-sml-i-gkl]]></url>
-        <price>1</price>
+        <price>0</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://potolki-st.ru/upload/iblock/3cc/n8bj21wol3k6t2b96id9cqsvzmy9cy02.jpg</picture>
@@ -160,7 +160,7 @@
         <name>Комплектующие и светильники</name>
         <vendorCode>11</vendorCode>
         <url><![CDATA[https://potolki-st.ru/?id=11#komplektuyushchie-i-svetil-niki]]></url>
-        <price>1</price>
+        <price>0</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://potolki-st.ru/upload/iblock/e51/ml611pnbx70029lyn2lim646whg7y8dw.png</picture>
